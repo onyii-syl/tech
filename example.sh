@@ -10,4 +10,6 @@ Show me love
 #i am just collaborating with her so she can pay me my money
 
 >>>>>>> c5e10a800348a30f9ab8c9e6d738dfd37f5555f3
-Onyiye is a devops engineer. the will be hired with multiple jobs all around the globe
+Onyinye is a devops engineer. She will be hired with multiple jobs all around the globe
+
+I, Onyi just corrected the above line.
