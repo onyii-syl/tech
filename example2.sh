@@ -8,3 +8,6 @@ Take note
 
 This is just me testing my new branch2
 This line is not supposed to appear in the master branch
+
+
+TESTING THE FILE
